@@ -80,6 +80,7 @@ Link against the SFML `.lib` files in your project properties and add the SFML `
 | Combo ×5+ | 2× multiplier |
 | Hit by enemy | −50 |
 
+
 Combos time out after ~3 seconds of no captures.
 
 ---
